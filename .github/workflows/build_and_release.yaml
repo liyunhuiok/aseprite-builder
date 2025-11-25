@@ -1,5 +1,6 @@
 name: Build and release Aseprite
-
+permissions:
+  contents: write
 on:
   push:
     branches:
